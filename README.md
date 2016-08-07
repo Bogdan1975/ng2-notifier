@@ -1,8 +1,6 @@
-# targus-ng2-grid
-Data grid table with both server-side and client side filtering and sorting
+# ng2-notifier
+Angular 2 component for notifying
 
-## Placeholder for `targus-ng2-grid` Angular2 component
+## Placeholder for `ng2-notifier` Angular2 component
 
-Coming soon ..
-This component is developing right now.
-
+Will be placed later
