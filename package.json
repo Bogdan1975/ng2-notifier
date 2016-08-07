@@ -1,0 +1,37 @@
+{
+  "name": "ng2-notifier",
+  "version": "0.0.0",
+  "description": "Angular 2 component for notifying",
+  "author": "Bogdan Shapoval (targus) <it.targus@gmail.com>",
+  "main": "notifier.component.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bogdan1975/ng2-notifier.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bogdan1975/ng2-notifier/issues"
+  },
+  "keywords": [
+    "angular2",
+    "angular 2",
+    "ng2",
+    "noty",
+    "notify",
+    "notifying",
+    "notifier",
+    "ng2-noty",
+    "ng2-notify",
+    "ng2-notifying",
+    "ng2-notifier",
+    "angular2-noty",
+    "angular2-notify",
+    "angular2-notifying",
+    "angular2-notifier",
+    "component"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Bogdan1975/ng2-notifier#readme"
+}
